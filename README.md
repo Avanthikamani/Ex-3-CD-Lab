@@ -83,7 +83,9 @@ do { yyparse();
 
 
 # OUTPUT
-![WhatsApp Image 2026-03-12 at 11 39 54 AM](https://github.com/user-attachments/assets/01db9b57-4ad7-4fff-8802-fc60a4a47b84)
+
+![3](https://github.com/user-attachments/assets/d8ce4a59-fa97-42c1-8dac-ed93a074f434)
+
 
 
 
